@@ -5,7 +5,7 @@ Hosting my projects and prototypes.
 
 [Folds Prototype built in Figma](https://www.figma.com/proto/9Cj0ZXtFuV7AQgIFqz7jXp/Folds?node-id=262-686&p=f&viewport=-680%2C-206%2C0.16&t=vP1kOlBuHAePedr4-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=262%3A686&page-id=0%3A1)
 
-## List of image sources:
+## List of image sources (from Figma prototype, unless otherwise noted):
 
 ### User feed, top to bottom
 “Spotlight: Still Thriving: Pure Hex Embarks On New Journeys With Latest Album ‘Still Dark’ — The Luna Collective.” Image. Cameron Capanash. The Luna Collective. Accessed April 29th, 2026. https://www.thelunacollective.co/journal/spotlight-pure-hex
@@ -23,7 +23,7 @@ Hosting my projects and prototypes.
 
 “Spilling \| Pure Hex.” Bandcamp. Album Cover. Pure Hex. Released May 17, 2024. https://purehex.bandcamp.com/album/spilling
 
-“Outer Peace \| Toro y Moi.” Bandcamp. Album Cover. Toro Y Moi. Released January 18, 2019. https://toroymoi.bandcamp.com/album/outer-peace
+“Outer Peace \| Toro y Moi.” Bandcamp. Album Cover. Toro Y Moi. Released January 18, 2019. https://toroymoi.bandcamp.com/album/outer-peace **Note: Also appears on Codex prototype on Home feed, Listen, and Creator Page**
 
 “Bits + Half-Assed Pieces - EP by Cigmund Floyd \| Spotify.” Spotify. Cigmund Floyd. Released 2020. https://open.spotify.com/album/2gKQm4R5RkHyssRQ8SSfPl
 
