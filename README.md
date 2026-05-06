@@ -5,7 +5,8 @@ Hosting my projects and prototypes.
 
 [Folds Prototype built in Codex](https://mhoffz.github.io/folds-prototype/)
 
-## List of image sources (from Figma prototype, unless otherwise noted):
+## List of image sources:
+(From Figma prototype, unless otherwise noted. Also noted when an image appears on multiple Figma screens.)
 
 ### User feed, top to bottom
 “Spotlight: Still Thriving: Pure Hex Embarks On New Journeys With Latest Album ‘Still Dark’ — The Luna Collective.” Image. Cameron Capanash. The Luna Collective. Accessed April 29th, 2026. https://www.thelunacollective.co/journal/spotlight-pure-hex
