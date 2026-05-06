@@ -17,13 +17,13 @@ Hosting my projects and prototypes.
 ### Artist search grid, left to right, top to bottom
 “Someday - YouTube.” YouTube. Image. UlyssesCFM, September 28, 2023. https://www.youtube.com/watch?v=ogUniKjdELI
 
-“Water Color Weekend | Facebook.” Facebook. Image. Water Color Weekend. Accessed April 29, 2026. https://www.facebook.com/WaterColorWeekendOfficial/
+“Water Color Weekend \| Facebook.” Facebook. Image. Water Color Weekend. Accessed April 29, 2026. https://www.facebook.com/WaterColorWeekendOfficial/
 
-“Gill Brothers Band | Gill Brothers Band.” Bandcamp. Album Cover. Gill Brothers Band. Released March 15, 2022. https://gillbrothersband.bandcamp.com/album/gill-brothers-band
+“Gill Brothers Band \| Gill Brothers Band.” Bandcamp. Album Cover. Gill Brothers Band. Released March 15, 2022. https://gillbrothersband.bandcamp.com/album/gill-brothers-band
 
-“Spilling | Pure Hex.” Bandcamp. Album Cover. Pure Hex. Released May 17, 2024. https://purehex.bandcamp.com/album/spilling
+“Spilling \| Pure Hex.” Bandcamp. Album Cover. Pure Hex. Released May 17, 2024. https://purehex.bandcamp.com/album/spilling
 
-“Outer Peace | Toro y Moi.” Bandcamp. Album Cover. Toro Y Moi. Released January 18, 2019. https://toroymoi.bandcamp.com/album/outer-peace
+“Outer Peace \| Toro y Moi.” Bandcamp. Album Cover. Toro Y Moi. Released January 18, 2019. https://toroymoi.bandcamp.com/album/outer-peace
 
 “Bits + Half-Assed Pieces - EP by Cigmund Floyd | Spotify.” Spotify. Cigmund Floyd. Released 2020. https://open.spotify.com/album/2gKQm4R5RkHyssRQ8SSfPl
 
