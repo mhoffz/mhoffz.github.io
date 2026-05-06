@@ -25,7 +25,7 @@ Hosting my projects and prototypes.
 
 “Outer Peace \| Toro y Moi.” Bandcamp. Album Cover. Toro Y Moi. Released January 18, 2019. https://toroymoi.bandcamp.com/album/outer-peace
 
-“Bits + Half-Assed Pieces - EP by Cigmund Floyd | Spotify.” Spotify. Cigmund Floyd. Released 2020. https://open.spotify.com/album/2gKQm4R5RkHyssRQ8SSfPl
+“Bits + Half-Assed Pieces - EP by Cigmund Floyd \| Spotify.” Spotify. Cigmund Floyd. Released 2020. https://open.spotify.com/album/2gKQm4R5RkHyssRQ8SSfPl
 
 “Astronauts, Etc.: Me and My Piano Playlist \| TIDAL Magazine.” Tidal. Photo by Brendan Nakahara. July 29, 2018. https://tidal.com/magazine/article/astronauts-etc-me-and-my-piano-playlist/1-51723
 
