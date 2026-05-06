@@ -12,7 +12,7 @@ Hosting my projects and prototypes.
 
 “Field Music at The Water Rats, Kings Cross, London, UK. November, 2007.” From Wikipedia. https://en.wikipedia.org/wiki/Field_Music Photo by Greg Hughes. Uploaded March 1, 2010.  https://creativecommons.org/licenses/by-sa/3.0/deed.en
 
-“Troy Kingi - Muzic.NZ - Musicians & Bands”. Image. Music NZ. Copyright 2026. https://www.muzic.nz/artists/troy-kingi/
+“Troy Kingi - Muzic.NZ - Musicians & Bands”. Image. Music NZ. Copyright 2026. https://www.muzic.nz/artists/troy-kingi/ **Note: Also appears on artist feed page**
 
 ### Artist search grid, left to right, top to bottom
 “Someday - YouTube.” YouTube. Image. UlyssesCFM, September 28, 2023. https://www.youtube.com/watch?v=ogUniKjdELI
