@@ -43,7 +43,9 @@ Hosting my projects and prototypes.
 “Troy Kingi: The Ghost of Freddie Cesar — track by track | RNZ Summer.” RNZ. Article by Yadana Saw. Image. Accessed April 29, 2026. https://www.rnz.co.nz/summer-2020/music/features/troy-kingi-track-by-track/
 
 ### Artist feed
-“HE TANGATA 🖤🤍❤️ \| T r o y K i n g i 🤙 \| Facebook.”He Tangata. Rawhitiroa Photography. Posted July 8 2025. https://www.facebook.com/groups/hetangata/posts/1095810295800934/
+“Troy Kingi - Muzic.NZ - Musicians & Bands”. Image. Music NZ. Copyright 2026. https://www.muzic.nz/artists/troy-kingi/ **Note: Also appears on user feed page**
+
+“Google Image Result.” Troy Kingi. From Instagram. Posted September 8, 2025. https://www.google.com/search?client=firefox-b-1-d&hs=ThAV&sca_esv=02a5ba911fc3640b&sxsrf=ANbL-n4FzVPnlbwEZY8IR6wprIG140g1Aw:1778049993954&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vWUtYx0DZdicpfE1faGYenqWn-q4MFiFFtvJjTKeAVxqtD2OJgNgqfuyx0ErWHyBWBrNpSfo8CoL7Ht9sI_lUfbu7V6Mj9CkIMUgNOjJx8BngI0b1IR9t4UVTIrLeDFsTMLYeYLlGfkGLqxAe-SftR1r2nw7SsAwejYY99_8kYkFjxKPw&q=troy+kingi&sa=X&ved=2ahUKEwifhqGyiKSUAxWvtysGHSdQPJoQtKgLegQIJhAB&biw=1366&bih=596&dpr=1#sv=CAMSVhoyKhBlLU0wLW9TLTljY3NBSG1NMg5NMC1vUy05Y2NzQUhtTToOWEJzVkxfTVJ3VUo2Wk0gBCocCgZtb3NhaWMSEGUtTTAtb1MtOWNjc0FIbU0YADABGAcgzd6czwFKCBABGAEgASgB
 
 “Google Image Result.” Troy Kingi. (from Black Sea Golden Ladder album cover, released 2021) Accessed April 29, 2026. https://www.google.com/imgres?q=troy%20kingi&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f2c9df432bc5b6d7dcaaa5f%2Fd3c9dab1-1148-42c3-b636-ed7c404aa05b%2FSocial%2BSharing%2BImage.jpg&imgrefurl=https%3A%2F%2Fwww.troykingi.com%2Fabout&docid=ZqGZmHWgnFEXyM&tbnid=dUX4HAVlxXFMTM&vet=12ahUKEwjU3fmIrKiTAxWdCDQIHaaMASUQnPAOegQIHBAB..i&w=1559&h=770&hcb=2&ved=2ahUKEwjU3fmIrKiTAxWdCDQIHaaMASUQnPAOegQIHBAB
 
