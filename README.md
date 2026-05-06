@@ -49,8 +49,7 @@ Hosting my projects and prototypes.
 
 
 ### Artist music
-“Music — Troy Kingi • 1O 1O 1O Series.” 6. Year of the ratbags and their musty theme songs (2022) By troy kingi & the promises. Troy Kingi. Accessed April 2026. https://www.troykingi.com/music
-#### Note: Above also appears on artist album view
+“Music — Troy Kingi • 1O 1O 1O Series.” 6. Year of the ratbags and their musty theme songs (2022) By troy kingi & the promises. Troy Kingi. Accessed April 2026. https://www.troykingi.com/music ***Note: Also appears on artist album view***
 
 “The Ghost of Freddie Cesar \| Troy Kingi.” Bandcamp. Troy Kingi. Album cover. Released September 11, 2020. https://troykingi.bandcamp.com/album/the-ghost-of-freddie-cesar
 
